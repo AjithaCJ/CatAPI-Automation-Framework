@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-07T11:51:08 IST" name="Default suite" finished-at="2026-07-07T11:51:18 IST" duration-ms="9715">
+    <groups>
+    </groups>
+    <test started-at="2026-07-07T11:51:08 IST" name="Default test" finished-at="2026-07-07T11:51:18 IST" duration-ms="9715">
+      <class name="com.cat.api.tests.CatApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cat.api.tests.CatApiTest@639c2c1d]" started-at="2026-07-07T11:51:08 IST" name="setup" finished-at="2026-07-07T11:51:10 IST" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatePublicBreedsEndpoint()[pri:1, instance:com.cat.api.tests.CatApiTest@639c2c1d]" started-at="2026-07-07T11:51:10 IST" name="validatePublicBreedsEndpoint" finished-at="2026-07-07T11:51:16 IST" duration-ms="6346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePublicBreedsEndpoint -->
+        <test-method signature="validateApiJsonSchemaStructure()[pri:2, instance:com.cat.api.tests.CatApiTest@639c2c1d]" started-at="2026-07-07T11:51:16 IST" name="validateApiJsonSchemaStructure" finished-at="2026-07-07T11:51:18 IST" duration-ms="1981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateApiJsonSchemaStructure -->
+      </class> <!-- com.cat.api.tests.CatApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
